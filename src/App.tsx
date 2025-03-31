@@ -5,7 +5,8 @@ function App() {
   return (
     <>
       <div>
-        <h1>Raphael</h1>
+        <h1>Katharina</h1>
+        <p>Du dumme *****</p>
       </div>
 
     </>
